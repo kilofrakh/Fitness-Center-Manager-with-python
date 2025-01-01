@@ -1,0 +1,85 @@
+{
+    "members": [
+        {
+            "name": "zizo",
+            "contact_info": "01112223334",
+            "email": "kikoabdelkareem@gmail.com",
+            "expiration_date": "2025-01-25",
+            "activities": [
+                "yoga",
+                "gym"
+            ],
+            "photo_path": "face_images\\zizo.jpg",
+            "qr_code_path": "face_images\\zizo_qr.png"
+        },
+        {
+            "name": "obama",
+            "contact_info": "0129876543",
+            "email": "kikoabdelkareem@gmail.com",
+            "expiration_date": "2025-06-01",
+            "activities": [
+                "yoga"
+            ],
+            "photo_path": "face_images\\obama.jpg",
+            "qr_code_path": "face_images\\obama_qr.png"
+        },
+        {
+            "name": "messi",
+            "contact_info": "01111111111",
+            "email": "kikoabdelkareem@gmail.com",
+            "expiration_date": "2020-01-01",
+            "activities": [
+                "gym"
+            ],
+            "photo_path": "face_images\\messi.jpg",
+            "qr_code_path": "face_images\\messi_qr.png"
+        }
+    ],
+    "activities": {
+        "gym": [],
+        "yoga": [],
+        "swimming": []
+    },
+    "activity_log": [
+        {
+            "name": "angry man",
+            "time": "2024-12-27 18:38:34"
+        },
+        {
+            "name": "messi",
+            "time": "2024-12-27 20:22:11"
+        },
+        {
+            "name": "messi",
+            "time": "2024-12-27 20:26:20"
+        },
+        {
+            "name": "obama",
+            "time": "2024-12-27 20:27:03"
+        },
+        {
+            "name": "obama",
+            "time": "2024-12-27 20:38:21"
+        },
+        {
+            "name": "messi",
+            "time": "2024-12-27 20:38:31"
+        },
+        {
+            "name": "messi",
+            "time": "2024-12-27 20:52:14"
+        },
+        {
+            "name": "obama",
+            "time": "2024-12-27 20:52:25"
+        },
+        {
+            "name": "obama",
+            "time": "2024-12-28 14:11:43"
+        },
+        {
+            "name": "messi",
+            "time": "2024-12-28 14:11:51"
+        }
+    ]
+}
